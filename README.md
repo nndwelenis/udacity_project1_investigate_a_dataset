@@ -22,7 +22,7 @@ Handcap - indicates whether or not the patient is a handicap.
 SMS_received - indicates whether or not the sms was received by the patient.
 No-show - indicates whether or not the patient showed up for the appointment.
 
-# How to run the script
+## How to run the script
 You can run the script using a Python integrated development environment (IDE). This script is written in Python 3, so you will need the Python 3.x version of the installer. To read the file, the following software requirements apply:
 
 - You should have Python 3, NumPy, and pandas installed using Anaconda
